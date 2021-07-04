@@ -1,0 +1,16 @@
+Hello,All!
+Here are some instructions to follow while using this application.
+---------------------------------------------------------------------
+1)In this application you can find the menu with 9 options.
+2)Detailed menu descriptions are described as follow:
+	1)create: This will create the file with the new record every time if you use the create option.
+	2)display: It will show all your recorded data from the file and display onto the screen.
+	3)append: This will append the new data in existing file of records. It won't create new file if you use append.
+	4)count: It will give you total of how many records are stored into the file.
+	5)search: You can search any of the employee or person data by using it's employee no. It will give you his/her all information by searching it using employee no.
+	6)update: If you want to update any of the employee data which might be entered wrongly or miss-spelled then it will allow you to re-enter the data by the person or employee's employee id.
+	7)delete: You can delete any of the person or employee data by using it's employee id.
+	8)Sort salary by descending order on the screen: If you want to check the highest salary of the employee then you can use this function.By default it shows the employee or person data by which you have entered data.
+	9)Exit: If you want to exit the application then type 0 for the same.
+
+		---THANK YOU FOR USING THE APPLICATION---
