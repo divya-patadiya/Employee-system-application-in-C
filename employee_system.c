@@ -1,6 +1,6 @@
-#Application: EMPLOYEE SYSTEM
-#PREPARED BY: Divya Patadiya
-#--------------------------------------------------------------------------------------------------------------------------------------------------
+//Application: EMPLOYEE SYSTEM
+//PREPARED BY: Divya Patadiya
+//--------------------------------------------------------------------------------------------------------------------------------------------------
 #include<stdio.h>
 #include<stdlib.h>
 typedef struct employee{
